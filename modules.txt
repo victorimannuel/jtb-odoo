@@ -2,3 +2,7 @@ install
 - account_usability
 - account_financial_report
 - account_reconcile_oca
+- web_sidebar
+- custom_home_menu
+- muk_web_theme
+- contacts
